@@ -1,0 +1,8 @@
+SP2-0640: Not connected
+SQL> connect
+Enter user-name: system
+Enter password:
+Connected.
+SQL> create table linkcodebank(reg_no number(5) primary key,f_name varchar2(20),mobno varchar2(20),u_name varchar2(20),pass varchar2(20),amount float);
+
+Table created.
